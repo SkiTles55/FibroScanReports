@@ -1,0 +1,10 @@
+c:\users\dmitry\source\repos\FibroscanReports\FibroscanReports\bin\Debug\FibroscanReports.exe.config
+c:\users\dmitry\source\repos\FibroscanReports\FibroscanReports\bin\Debug\FibroscanReports.exe
+c:\users\dmitry\source\repos\FibroscanReports\FibroscanReports\bin\Debug\FibroscanReports.pdb
+c:\users\dmitry\source\repos\FibroscanReports\FibroscanReports\obj\Debug\FibroscanReports.csprojAssemblyReference.cache
+c:\users\dmitry\source\repos\FibroscanReports\FibroscanReports\obj\Debug\FibroscanReports.Form1.resources
+c:\users\dmitry\source\repos\FibroscanReports\FibroscanReports\obj\Debug\FibroscanReports.Properties.Resources.resources
+c:\users\dmitry\source\repos\FibroscanReports\FibroscanReports\obj\Debug\FibroscanReports.csproj.GenerateResource.cache
+c:\users\dmitry\source\repos\FibroscanReports\FibroscanReports\obj\Debug\FibroscanReports.csproj.CoreCompileInputs.cache
+c:\users\dmitry\source\repos\FibroscanReports\FibroscanReports\obj\Debug\FibroscanReports.exe
+c:\users\dmitry\source\repos\FibroscanReports\FibroscanReports\obj\Debug\FibroscanReports.pdb
